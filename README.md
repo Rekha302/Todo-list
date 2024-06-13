@@ -68,3 +68,40 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+# To-Do List - description
+
+A simple and elegant React To-Do List application that allows you to add, remove, and mark tasks as completed. It also features task filtering and localStorage integration to persist tasks between sessions.
+
+## Features
+
+- **Add Tasks**: Quickly add new tasks.
+- **Remove Tasks**: Easily remove tasks.
+- **Mark Tasks as Completed**: Mark tasks as completed or pending.
+- **Filter Tasks**: Filter tasks by all, completed, or pending.
+- **LocalStorage Integration**: Tasks persist between sessions using localStorage.
+
+## Demo
+
+![To-Do List Demo](demo.gif) *(Add a gif or screenshot of your application)*
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm (Node Package Manager)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/todo-list.git
+   cd todo-list
+
